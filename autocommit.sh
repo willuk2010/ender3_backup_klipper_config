@@ -5,10 +5,10 @@
 ### the listed folders, just keep that line commented out.        ###
 #####################################################################
 ### Path to your config folder you want to back up
-config_folder=~/klipper_config
+config_folder=/home/pi/ender_data/config
 
 ### Path to your Klipper folder, by default that is '~/klipper'
-klipper_folder=~/klipper
+klipper_folder=/home/pi/klipper
 
 ### Path to your Moonraker folder, by default that is '~/moonraker'
 moonraker_folder=~/moonraker
